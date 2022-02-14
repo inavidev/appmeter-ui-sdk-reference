@@ -8,6 +8,10 @@ $dokka.location:com.inavi.appmeter.ui.enums/ButtonType.EmptyCar///PointingToDecl
 $dokka.location:com.inavi.appmeter.ui.enums/ButtonType.Payment///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-button-type/-payment/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/ButtonType.Reservation///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-button-type/-reservation/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/ButtonType///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-button-type/index.html
+$dokka.location:com.inavi.appmeter.ui.enums/PaymentResult.Cancelled///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-payment-result/-cancelled/index.html
+$dokka.location:com.inavi.appmeter.ui.enums/PaymentResult.Failure///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-payment-result/-failure/index.html
+$dokka.location:com.inavi.appmeter.ui.enums/PaymentResult.Success///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-payment-result/-success/index.html
+$dokka.location:com.inavi.appmeter.ui.enums/PaymentResult///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-payment-result/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/ServiceArea.Ansan///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-service-area/-ansan/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/ServiceArea.Anyang///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-service-area/-anyang/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/ServiceArea.Bucheon///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-service-area/-bucheon/index.html
@@ -29,7 +33,7 @@ $dokka.location:com.inavi.appmeter.ui.enums/ServiceArea.Yongin///PointingToDecla
 $dokka.location:com.inavi.appmeter.ui.enums/ServiceArea///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-service-area/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/ServiceType.None///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-service-type/-none/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/ServiceType.Taxi///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-service-type/-taxi/index.html
-$dokka.location:com.inavi.appmeter.ui.enums/ServiceType.TaxiForDisabled///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-service-type/-taxi-for-disabled/index.html
+$dokka.location:com.inavi.appmeter.ui.enums/ServiceType.WTaxi///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-service-type/-w-taxi/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/ServiceType///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-service-type/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/VehicleGrade.CityCar///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-grade/-city-car/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/VehicleGrade.LargeCar///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-grade/-large-car/index.html
@@ -39,10 +43,11 @@ $dokka.location:com.inavi.appmeter.ui.enums/VehicleGrade.None///PointingToDeclar
 $dokka.location:com.inavi.appmeter.ui.enums/VehicleGrade.SmallCar///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-grade/-small-car/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/VehicleGrade.SpecialTruck///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-grade/-special-truck/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/VehicleGrade///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-grade/index.html
+$dokka.location:com.inavi.appmeter.ui.enums/VehicleStatus.Call///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-status/-call/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/VehicleStatus.Closed///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-status/-closed/index.html
+$dokka.location:com.inavi.appmeter.ui.enums/VehicleStatus.Driving///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-status/-driving/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/VehicleStatus.EmptyCar///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-status/-empty-car/index.html
-$dokka.location:com.inavi.appmeter.ui.enums/VehicleStatus.OnReservation///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-status/-on-reservation/index.html
-$dokka.location:com.inavi.appmeter.ui.enums/VehicleStatus.WaitingCall///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-status/-waiting-call/index.html
+$dokka.location:com.inavi.appmeter.ui.enums/VehicleStatus.Reservation///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-status/-reservation/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/VehicleStatus///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-status/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/VehicleType.LargeSize///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-type/-large-size/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/VehicleType.MidSize///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-type/-mid-size/index.html
@@ -50,33 +55,42 @@ $dokka.location:com.inavi.appmeter.ui.enums/VehicleType.None///PointingToDeclara
 $dokka.location:com.inavi.appmeter.ui.enums/VehicleType.Suv///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-type/-suv/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/VehicleType.Van///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-type/-van/index.html
 $dokka.location:com.inavi.appmeter.ui.enums/VehicleType///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.enums/-vehicle-type/index.html
-$dokka.location:com.inavi.appmeter.ui.listener////PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.listener/index.html
-$dokka.location:com.inavi.appmeter.ui.listener/AppMeterUiListener///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.listener/-app-meter-ui-listener/index.html
-$dokka.location:com.inavi.appmeter.ui.listener/AppMeterUiListener/onEventReceived/#com.inavi.appmeter.ui.model.AppMeterUiEvent/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.listener/-app-meter-ui-listener/on-event-received.html
+$dokka.location:com.inavi.appmeter.ui.event////PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/index.html
+$dokka.location:com.inavi.appmeter.ui.event/AppEvent.PaymentCompleted///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-event/-payment-completed/index.html
+$dokka.location:com.inavi.appmeter.ui.event/AppEvent.PaymentCompleted/AppEvent.PaymentCompleted/#com.inavi.appmeter.ui.enums.PaymentResult/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-event/-payment-completed/-app-event.-payment-completed.html
+$dokka.location:com.inavi.appmeter.ui.event/AppEvent.PaymentCompleted/getResult/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-event/-payment-completed/get-result.html
+$dokka.location:com.inavi.appmeter.ui.event/AppEvent///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-event/index.html
+$dokka.location:com.inavi.appmeter.ui.event/AppEventSender///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-event-sender/index.html
+$dokka.location:com.inavi.appmeter.ui.event/AppEventSender/send/#androidx.lifecycle.LifecycleOwner#com.inavi.appmeter.ui.event.AppEvent/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-event-sender/send.html
+$dokka.location:com.inavi.appmeter.ui.event/AppMeterUiEventReceiver///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-meter-ui-event-receiver/index.html
+$dokka.location:com.inavi.appmeter.ui.event/AppMeterUiEventReceiver/AppMeterUiEventReceiver/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-meter-ui-event-receiver/-app-meter-ui-event-receiver.html
+$dokka.location:com.inavi.appmeter.ui.event/AppMeterUiEventReceiver/onClickBottomButton/#com.inavi.appmeter.ui.enums.ButtonType/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-meter-ui-event-receiver/on-click-bottom-button.html
+$dokka.location:com.inavi.appmeter.ui.event/AppMeterUiEventReceiver/onFinish/#kotlin.Long/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-meter-ui-event-receiver/on-finish.html
+$dokka.location:com.inavi.appmeter.ui.event/AppMeterUiEventReceiver/onInitCompleted/#kotlin.Long/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-meter-ui-event-receiver/on-init-completed.html
+$dokka.location:com.inavi.appmeter.ui.event/AppMeterUiEventReceiver/onPassengerOnBoardChanged/#kotlin.String#kotlin.Boolean/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-meter-ui-event-receiver/on-passenger-on-board-changed.html
+$dokka.location:com.inavi.appmeter.ui.event/AppMeterUiEventReceiver/onRequestPayment/#kotlin.String#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Boolean/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-meter-ui-event-receiver/on-request-payment.html
+$dokka.location:com.inavi.appmeter.ui.event/AppMeterUiEventReceiver/onRequestPaymentManual/#kotlin.String#kotlin.Int#kotlin.Boolean/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-meter-ui-event-receiver/on-request-payment-manual.html
+$dokka.location:com.inavi.appmeter.ui.event/AppMeterUiEventReceiver/onVehicleStatusChanged/#com.inavi.appmeter.ui.enums.VehicleStatus/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-meter-ui-event-receiver/on-vehicle-status-changed.html
 $dokka.location:com.inavi.appmeter.ui.model////PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/index.html
-$dokka.location:com.inavi.appmeter.ui.model/AppMeterUiEvent.ButtonPressed///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-app-meter-ui-event/-button-pressed/index.html
-$dokka.location:com.inavi.appmeter.ui.model/AppMeterUiEvent.ButtonPressed/AppMeterUiEvent.ButtonPressed/#com.inavi.appmeter.ui.enums.ButtonType/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-app-meter-ui-event/-button-pressed/-app-meter-ui-event.-button-pressed.html
-$dokka.location:com.inavi.appmeter.ui.model/AppMeterUiEvent.ButtonPressed/getType/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-app-meter-ui-event/-button-pressed/get-type.html
-$dokka.location:com.inavi.appmeter.ui.model/AppMeterUiEvent///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-app-meter-ui-event/index.html
+$dokka.location:com.inavi.appmeter.ui.model/DriverInfo///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-driver-info/index.html
+$dokka.location:com.inavi.appmeter.ui.model/DriverInfo/DriverInfo/#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-driver-info/-driver-info.html
 $dokka.location:com.inavi.appmeter.ui.model/ServiceInfo///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-service-info/index.html
 $dokka.location:com.inavi.appmeter.ui.model/ServiceInfo/ServiceInfo/#com.inavi.appmeter.ui.enums.ServiceType#com.inavi.appmeter.ui.enums.ServiceArea/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-service-info/-service-info.html
-$dokka.location:com.inavi.appmeter.ui.model/UserInfo///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-user-info/index.html
-$dokka.location:com.inavi.appmeter.ui.model/UserInfo/UserInfo/#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-user-info/-user-info.html
 $dokka.location:com.inavi.appmeter.ui.model/VehicleInfo///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-vehicle-info/index.html
 $dokka.location:com.inavi.appmeter.ui.model/VehicleInfo/VehicleInfo/#com.inavi.appmeter.ui.enums.VehicleType#com.inavi.appmeter.ui.enums.VehicleGrade#kotlin.String#com.inavi.appmeter.ui.enums.VehicleStatus/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-vehicle-info/-vehicle-info.html
 $dokka.location:com.inavi.appmeter.ui////PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/index.html
 $dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary.Launcher.Companion///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/-launcher/-companion/index.html
 $dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary.Launcher///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/-launcher/index.html
-$dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary.Launcher/apply/#com.inavi.appmeter.ui.model.UserInfo#com.inavi.appmeter.ui.model.ServiceInfo#com.inavi.appmeter.ui.model.VehicleInfo/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/-launcher/apply.html
+$dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary.Launcher/apply/#com.inavi.appmeter.ui.model.DriverInfo#com.inavi.appmeter.ui.model.ServiceInfo#com.inavi.appmeter.ui.model.VehicleInfo/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/-launcher/apply.html
 $dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary.Launcher/launch/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/-launcher/launch.html
+$dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary.Launcher/registerEventReceiver/#androidx.lifecycle.LifecycleOwner#com.inavi.appmeter.ui.event.AppMeterUiEventReceiver/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/-launcher/register-event-receiver.html
 $dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary.Launcher/setDebugMode/#kotlin.Boolean/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/-launcher/set-debug-mode.html
-$dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary.Launcher/setListener/#com.inavi.appmeter.ui.listener.AppMeterUiListener/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/-launcher/set-listener.html
 $dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/index.html
 $dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary/getBuildDate/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/get-build-date.html
 $dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary/getVersionName/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/get-version-name.html
 $dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary/with/#android.app.Activity/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/with.html
 com.inavi.appmeter.ui
 com.inavi.appmeter.ui.enums
-com.inavi.appmeter.ui.listener
+com.inavi.appmeter.ui.event
 com.inavi.appmeter.ui.model
 
