@@ -1,1 +1,1 @@
-sourceset_dependencies='{":lcmdriver:dokkaHtml/androidTestRelease":[],":lcmdriver:dokkaHtml/debug":[],":lcmdriver:dokkaHtml/main":[],":lcmdriver:dokkaHtml/release":[],":lcmdriver:dokkaHtml/testFixtures":[],":lcmdriver:dokkaHtml/testFixturesDebug":[],":lcmdriver:dokkaHtml/testFixturesRelease":[]}'
+sourceset_dependencies='{":kiataxi:dokkaHtml/androidTestRelease":[],":kiataxi:dokkaHtml/debug":[],":kiataxi:dokkaHtml/main":[],":kiataxi:dokkaHtml/release":[],":kiataxi:dokkaHtml/testFixtures":[],":kiataxi:dokkaHtml/testFixturesDebug":[],":kiataxi:dokkaHtml/testFixturesRelease":[]}'
