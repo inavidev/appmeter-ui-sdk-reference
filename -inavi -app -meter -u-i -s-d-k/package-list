@@ -77,30 +77,24 @@ $dokka.location:com.inavi.appmeter.ui.event/AppMeterUiEventReceiver/onTouchAppMe
 $dokka.location:com.inavi.appmeter.ui.event/AppMeterUiEventReceiver/onVehicleStatusChanged/#com.inavi.appmeter.ui.enums.VehicleStatus/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.event/-app-meter-ui-event-receiver/on-vehicle-status-changed.html
 $dokka.location:com.inavi.appmeter.ui.model////PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/index.html
 $dokka.location:com.inavi.appmeter.ui.model/DailyStatus///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-daily-status/index.html
-$dokka.location:com.inavi.appmeter.ui.model/DailyStatus/DailyStatus/#kotlin.Double#kotlin.Int#kotlin.Double#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-daily-status/-daily-status.html
 $dokka.location:com.inavi.appmeter.ui.model/DailyStatus/getDrivingDist/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-daily-status/get-driving-dist.html
 $dokka.location:com.inavi.appmeter.ui.model/DailyStatus/getDrivingTime/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-daily-status/get-driving-time.html
 $dokka.location:com.inavi.appmeter.ui.model/DailyStatus/getIncomeCard/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-daily-status/get-income-card.html
 $dokka.location:com.inavi.appmeter.ui.model/DailyStatus/getIncomeCash/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-daily-status/get-income-cash.html
 $dokka.location:com.inavi.appmeter.ui.model/DailyStatus/getServiceDist/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-daily-status/get-service-dist.html
 $dokka.location:com.inavi.appmeter.ui.model/DailyStatus/getServiceTime/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-daily-status/get-service-time.html
-$dokka.location:com.inavi.appmeter.ui.model/DailyStatus/toString/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-daily-status/to-string.html
 $dokka.location:com.inavi.appmeter.ui.model/DialogInfo.OnDismissListener///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-dialog-info/-on-dismiss-listener/index.html
 $dokka.location:com.inavi.appmeter.ui.model/DialogInfo.OnDismissListener/onDismiss/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-dialog-info/-on-dismiss-listener/on-dismiss.html
 $dokka.location:com.inavi.appmeter.ui.model/DialogInfo///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-dialog-info/index.html
 $dokka.location:com.inavi.appmeter.ui.model/DialogInfo/DialogInfo/#kotlin.String/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-dialog-info/-dialog-info.html
 $dokka.location:com.inavi.appmeter.ui.model/DialogInfo/DialogInfo/#kotlin.String?#kotlin.String/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-dialog-info/-dialog-info.html
-$dokka.location:com.inavi.appmeter.ui.model/DialogInfo/getMessage/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-dialog-info/get-message.html
-$dokka.location:com.inavi.appmeter.ui.model/DialogInfo/getTitle/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-dialog-info/get-title.html
 $dokka.location:com.inavi.appmeter.ui.model/DialogInfo/setOnDismissListener/#com.inavi.appmeter.ui.model.DialogInfo.OnDismissListener/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-dialog-info/set-on-dismiss-listener.html
 $dokka.location:com.inavi.appmeter.ui.model/DriverInfo///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-driver-info/index.html
 $dokka.location:com.inavi.appmeter.ui.model/DriverInfo/DriverInfo/#kotlin.String#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-driver-info/-driver-info.html
 $dokka.location:com.inavi.appmeter.ui.model/LocationInfo///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-location-info/index.html
-$dokka.location:com.inavi.appmeter.ui.model/LocationInfo/LocationInfo/#kotlin.Double#kotlin.Double#kotlin.Double/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-location-info/-location-info.html
 $dokka.location:com.inavi.appmeter.ui.model/LocationInfo/getHeading/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-location-info/get-heading.html
 $dokka.location:com.inavi.appmeter.ui.model/LocationInfo/getLatitude/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-location-info/get-latitude.html
 $dokka.location:com.inavi.appmeter.ui.model/LocationInfo/getLongitude/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-location-info/get-longitude.html
-$dokka.location:com.inavi.appmeter.ui.model/LocationInfo/toString/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-location-info/to-string.html
 $dokka.location:com.inavi.appmeter.ui.model/PaymentInfo.Cancel///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-payment-info/-cancel/index.html
 $dokka.location:com.inavi.appmeter.ui.model/PaymentInfo.Cancel/getCallFee/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-payment-info/-cancel/get-call-fee.html
 $dokka.location:com.inavi.appmeter.ui.model/PaymentInfo.Cancel/getDrivingFare/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-payment-info/-cancel/get-driving-fare.html
@@ -115,7 +109,9 @@ $dokka.location:com.inavi.appmeter.ui.model/PaymentInfo.Driving/getDistanceFare/
 $dokka.location:com.inavi.appmeter.ui.model/PaymentInfo.Driving/getDrivingDist/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-payment-info/-driving/get-driving-dist.html
 $dokka.location:com.inavi.appmeter.ui.model/PaymentInfo.Driving/getDrivingFare/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-payment-info/-driving/get-driving-fare.html
 $dokka.location:com.inavi.appmeter.ui.model/PaymentInfo.Driving/getDrivingTime/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-payment-info/-driving/get-driving-time.html
+$dokka.location:com.inavi.appmeter.ui.model/PaymentInfo.Driving/getEndLocation/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-payment-info/-driving/get-end-location.html
 $dokka.location:com.inavi.appmeter.ui.model/PaymentInfo.Driving/getPassedTollCount/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-payment-info/-driving/get-passed-toll-count.html
+$dokka.location:com.inavi.appmeter.ui.model/PaymentInfo.Driving/getStartLocation/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-payment-info/-driving/get-start-location.html
 $dokka.location:com.inavi.appmeter.ui.model/PaymentInfo.Driving/getStartTime/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-payment-info/-driving/get-start-time.html
 $dokka.location:com.inavi.appmeter.ui.model/PaymentInfo.Driving/getTollFee/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-payment-info/-driving/get-toll-fee.html
 $dokka.location:com.inavi.appmeter.ui.model/PaymentInfo.Driving/getTotalFare/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-payment-info/-driving/get-total-fare.html
@@ -130,7 +126,6 @@ $dokka.location:com.inavi.appmeter.ui.model/PaymentInfo/getTotalFare/#/PointingT
 $dokka.location:com.inavi.appmeter.ui.model/ServiceInfo///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-service-info/index.html
 $dokka.location:com.inavi.appmeter.ui.model/ServiceInfo/ServiceInfo/#com.inavi.appmeter.ui.enums.ServiceType#kotlin.String/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-service-info/-service-info.html
 $dokka.location:com.inavi.appmeter.ui.model/TollgateInfo///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-tollgate-info/index.html
-$dokka.location:com.inavi.appmeter.ui.model/TollgateInfo/TollgateInfo/#kotlin.String#kotlin.Long#kotlin.Int/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-tollgate-info/-tollgate-info.html
 $dokka.location:com.inavi.appmeter.ui.model/TollgateInfo/getName/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-tollgate-info/get-name.html
 $dokka.location:com.inavi.appmeter.ui.model/TollgateInfo/getTimeMillis/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-tollgate-info/get-time-millis.html
 $dokka.location:com.inavi.appmeter.ui.model/TollgateInfo/getTollFee/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui.model/-tollgate-info/get-toll-fee.html
@@ -145,7 +140,7 @@ $dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary.Launcher/setDebugMode/#k
 $dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary///PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/index.html
 $dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary/getBuildDate/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/get-build-date.html
 $dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary/getVersionName/#/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/get-version-name.html
-$dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary/with/#android.content.Context/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/with.html
+$dokka.location:com.inavi.appmeter.ui/AppMeterUiLibrary/with/#android.app.Service/PointingToDeclaration/-inavi -app -meter -u-i -s-d-k/com.inavi.appmeter.ui/-app-meter-ui-library/with.html
 com.inavi.appmeter.ui
 com.inavi.appmeter.ui.enums
 com.inavi.appmeter.ui.event
